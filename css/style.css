@@ -1,1 +1,19 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color:#567156;
+}
+
+h3 {
+  font-size: 300%;
+  color :#c8a6f2;
+  text-shadow:2px 2px #b589ec;
+}
+
+div {
+  border: dotted;
+  color : #c6bbd3;
+}
+
+body {
+  font-style: oswald;
+}
